@@ -26,29 +26,36 @@ However, if you are looking for rules that are easier to analyze and rely on, **
 
 
 ## Documentation Result
-Time Complexity:
+#### Time Complexity:
+
 ![image](https://github.com/roniantoniius/Groceries-Product-Recommendation-Using-Market-Basket-Analysis-FP-Growth/assets/121453378/9b927602-1a75-40ad-9cdd-0794718bd4eb)
 
-Count of Rule Association:
+#### Count of Rule Association:
+
 ![image](https://github.com/roniantoniius/Groceries-Product-Recommendation-Using-Market-Basket-Analysis-FP-Growth/assets/121453378/a6c63c1a-ed00-4e74-aca5-8bc95bb2cbfc)
 
-Support:
+#### Support:
+
 ![image](https://github.com/roniantoniius/Groceries-Product-Recommendation-Using-Market-Basket-Analysis-FP-Growth/assets/121453378/233a000b-e0a0-479c-b64c-77fda428365f)
 
-Confidence:
+#### Confidence:
+
 ![image](https://github.com/roniantoniius/Groceries-Product-Recommendation-Using-Market-Basket-Analysis-FP-Growth/assets/121453378/8cbb991f-fab5-48e1-ad2f-a410c8f414e3)
 
-Lift:
+#### Lift:
+
 ![image](https://github.com/roniantoniius/Groceries-Product-Recommendation-Using-Market-Basket-Analysis-FP-Growth/assets/121453378/1eb7f245-f884-432c-b722-9b376d4f130b)
 
-FP-Growth:
+#### FP-Growth:
+
 ![image](https://github.com/roniantoniius/Groceries-Product-Recommendation-Using-Market-Basket-Analysis-FP-Growth/assets/121453378/6d4fd855-a7b6-40ce-b746-a16a2ae12b89)
 
-Product Always Sold Association:
+#### Product Always Sold Association:
+
 ![image](https://github.com/roniantoniius/Groceries-Product-Recommendation-Using-Market-Basket-Analysis-FP-Growth/assets/121453378/ecc5be14-8f25-475b-8543-ce6fdb7f113f)
 **Toothbrush** dan **toothpaste** memiliki nilai confidence yang tinggi. Sehingga kedua produk tersebut sering sekali dibeli secara bersamaan. Disusul dengan Mop dan Toothpaste
 
-Product Recommendation based on Confidence:
+#### Product Recommendation based on Confidence:
 ![image](https://github.com/roniantoniius/Groceries-Product-Recommendation-Using-Market-Basket-Analysis-FP-Growth/assets/121453378/1c48ef7e-bd35-4222-a420-677786849451)
 
 
